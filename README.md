@@ -17,5 +17,5 @@
 - [x] Create a simple machine-learning application & verify the accuracy
 - [x] [Docker Compose] Create a docker-compose file for the 2 images: your flask app and the machine learning app and run the same view the page in browser
 - [x] Commit all the code to GitHub Repo
-- [ ] Document all the learnings with screenshots in the GitHub Wiki
+- [x] Document all the learnings with screenshots in the GitHub Wiki
 - [ ] Create a post on Linkedin
